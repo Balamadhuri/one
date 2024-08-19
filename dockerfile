@@ -2,4 +2,5 @@ FROM ubuntu
 RUN touch file1 file2 aws
 HELLO THIS IS EXTRA DATA WE ARE ADDING TO THIS FILE
 how are you today
+for more content practice daily
 ADDING SOME MORE CONTENT
